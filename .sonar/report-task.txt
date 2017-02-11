@@ -1,0 +1,5 @@
+projectKey=project:soccer_db
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/project:soccer_db
+ceTaskId=AVatPWWaOM7h2z_toVAy
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVatPWWaOM7h2z_toVAy
